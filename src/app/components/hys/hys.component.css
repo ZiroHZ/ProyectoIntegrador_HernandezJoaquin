@@ -1,0 +1,30 @@
+.row{
+background-color: #a1b5cb;
+padding: 20px;
+
+/* para alinearlo con el otro cuadro de abajo */
+/*padding-left: 30px;
+padding-right: 10px;*/
+}
+
+.titulo{
+    text-align: center;
+    
+}
+
+ /*.contenedor{
+
+    width: auto;
+   
+   
+   border-style:ridge;
+   border-color: rgb(50, 110, 167);
+   border-radius:20px;
+   box-shadow:4px 3px 10px #174b83;
+   
+   } */
+
+   
+   
+
+   

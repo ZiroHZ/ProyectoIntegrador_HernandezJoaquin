@@ -20,8 +20,9 @@ div{
 @media (min-width:576px){
   #fotodeperfil{
     position: absolute;
-    width: 20%;
-    border-radius: 20% 50%;
+    width: 15%;
+    height: 20%;
+    border-radius: 100%;
     box-shadow: 3px 3px 3px grey;
      
     left: 3%;
@@ -33,12 +34,248 @@ div{
 @media (max-width:575px){
     #fotodeperfil{
       position: absolute;
+      width: 30%;
+      height: 28%;
+      border-radius: 100%;
+      box-shadow: 3px 3px 3px grey;
+       
+      left: 35%;
+      top: 610px;
+
+      @media()
+    }
+  
+    @media (min-height:670px){
+      #fotodeperfil{
+        position: absolute;
+        width: 30%;
+        height: 25%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+         
+        left: 35%;
+        top: 610px;
+
+                    }
+
+
+                           }
+                           @media (min-height:800px){
+                            #fotodeperfil{
+                              position: absolute;
+                              width: 30%;
+                              height: 23%;
+                              border-radius: 100%;
+                              box-shadow: 3px 3px 3px grey;
+                               
+                              left: 35%;
+                              top: 610px;
+                      
+                                          }
+                      
+                      
+                                                 }   
+                                                 
+                                                 @media (min-height:894px){
+                                                  #fotodeperfil{
+                                                    position: absolute;
+                                                    width: 30%;
+                                                    height: 23%;
+                                                    border-radius: 100%;
+                                                    box-shadow: 3px 3px 3px grey;
+                                                     
+                                                    left: 35%;
+                                                    top: 590px;
+                                            
+                                                                }
+                                            
+                                            
+                                                                       }                                       
+                              }
+  @media (max-width:575px){
+    #fotodeperfil{
+      position: absolute;
+      width: 30%;
+      height: 25%;
+      border-radius: 100%;
+      box-shadow: 3px 3px 3px grey;
+       
+      left: 35%;
+      top: 610px;
+    }
+     
+    @media (max-height:913px) {
+      #fotodeperfil{
+        position: absolute;
+        width: 25%;
+        height: 20%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+         
+        left: 37%;
+        top: 800px;
+      }
+    }
+  }
+  @media (min-width:415px){
+    @media(min-height:914px){
+    #fotodeperfil{
+      position: absolute;
+      width: 30%;
+      height: 20%;
+      border-radius: 100%;
+      box-shadow: 3px 3px 3px grey;
+       
+      left: 35%;
+      top: 800px;
+    }
+    }
+  }
+  @media (min-width:576px){
+    @media(min-height:914px){
+    #fotodeperfil{
+      position: absolute;
+      width: 25%;
+      height: 15%;
+      border-radius: 100%;
+      box-shadow: 3px 3px 3px grey;
+       
+      left: 10%;
+      top: 580px;
+    }
+    }
+  }
+  @media (max-width:414px){
+    #fotodeperfil{
+      position: absolute;
       width: 40%;
-      border-radius: 20% 50%;
+      height: 25%;
+      border-radius: 100%;
       box-shadow: 3px 3px 3px grey;
        
       left: 30%;
+      top: 690px;
+
+      
+    }
+  
+
+    @media(max-height: 920px){
+
+       #fotodeperfil{
+        position: absolute;
+        width: 40%;
+        height: 20%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+         
+        left: 30%;
+        top: 800px;
+
+       }
+
+    }
+
+    @media(max-height: 730px){
+
+      #fotodeperfil{
+       position: absolute;
+       width: 40%;
+       height: 20%;
+       border-radius: 100%;
+       box-shadow: 3px 3px 3px grey;
+        
+       left: 30%;
+       top: 700px;
+
+      }
+
+   }
+
+
+
+
+  }
+
+  @media (max-width:414px){
+    #fotodeperfil{
+      position: absolute;
+      width: 40%;
+      height: 20%;
+      border-radius: 100%;
+      box-shadow: 3px 3px 3px grey;
+       
+      left: 30%;
+      top: 700px;
+    }
+       @media(max-height:2000px){
+        #fotodeperfil{
+          position: absolute;
+          width: 35%;
+          height: 15%;
+          border-radius: 100%;
+          box-shadow: 3px 3px 3px grey;
+           
+          left: 33%;
+          top: 810px;
+        }
+       }
+  }
+  @media (max-width:234px){
+    #fotodeperfil{
+      position: absolute;
+      width: 40%;
+      height: 20%;
+      border-radius: 100%;
+      box-shadow: 3px 3px 3px grey;
+       
+      left: 30%;
+      top: 750px;
+    }
+  
+  }
+  @media (min-width:887px){
+    #fotodeperfil{
+      position: absolute;
+      width: 15%;
+      height: 25%;
+      border-radius: 100%;
+      box-shadow: 3px 3px 3px grey;
+       
+      left: 5%;
       top: 660px;
     }
   
   }
+
+  @media (min-width:1031px){
+    #fotodeperfil{
+      position: absolute;
+      width: 13%;
+      height: 25%;
+      border-radius: 100%;
+      box-shadow: 3px 3px 3px grey;
+       
+      left: 3%;
+      top: 660px;
+    }
+  
+  }
+
+
+
+
+
+  /*seccion AcercaDe*/
+  @media (min-width:768px){
+
+
+    @media(max-height:1024px){
+    #ac{
+      font-size: 20px;
+    }
+  }
+  }
+
+
+  

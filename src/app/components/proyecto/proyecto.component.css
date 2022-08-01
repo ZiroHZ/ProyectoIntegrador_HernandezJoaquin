@@ -1,0 +1,31 @@
+.row {
+
+    padding: 20px;
+    background-color: #a1b5cb;
+
+}
+
+.contenedor{
+
+ width: auto;
+margin-bottom: 10px;
+
+border-style:ridge;
+border-color: rgb(50, 110, 167);
+border-radius:20px;
+box-shadow:4px 3px 10px #174b83;
+/* box-shadow: ejeX ejeY difumasion color; */
+}
+
+.parte1, .parte2{
+
+display: inline-block;
+text-align: justify;
+}
+
+.img-proyecto{
+
+    box-shadow: 10px 10px 10px #000000;
+    /* box-shadow: ejeX ejeY difumasion color; */
+    margin-bottom: 20px;
+}
